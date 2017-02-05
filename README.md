@@ -1,6 +1,6 @@
 # Awesome Go Storage [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) 
 
-A curated list of awesome Go storage projects and libraries. Inspired by [awesome-python](https://github.com/vinta/awesome-python).
+A curated list of awesome Go storage projects and libraries. Inspired by [awesome-go](https://github.com/avelino/awesome-go).
 
 
 ### Contributing
