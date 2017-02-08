@@ -50,6 +50,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/g
 * [goofys](https://github.com/kahing/goofys) - A high-performance, POSIX-ish Amazon S3 file system written in Go.
 * [go-systemd](https://github.com/coreos/go-systemd) - Go bindings to systemd socket activation, journal, D-Bus, and unit files.
 * [gcsfuse](https://github.com/GoogleCloudPlatform/gcsfuse) - A user-space file system for interacting with Google Cloud Storage.
+* [svfs](https://github.com/ovh/svfs) - A virtual file system over Openstack Swift built upon fuse.
 
 
 ## Database
