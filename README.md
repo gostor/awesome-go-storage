@@ -1,4 +1,4 @@
-# Awesome Go Storage [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) 
+# Awesome Go Storage [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 A curated list of awesome Go storage projects and libraries. Inspired by [awesome-go](https://github.com/avelino/awesome-go).
 
@@ -26,7 +26,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/g
 
 * [minio](https://github.com/minio/minio) - Minio is an open source object storage server compatible with Amazon S3 APIs.
 * [rclone](https://github.com/ncw/rclone) - "rsync for cloud storage" - Google Drive, Amazon Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Cloudfile…
-* [camlistore](https://github.com/camlistore/camlistore) - Camlistore is your personal storage system for life: a way of storing, syncing, sharing, modelling and backing up content. 
+* [camlistore](https://github.com/camlistore/camlistore) - Camlistore is your personal storage system for life: a way of storing, syncing, sharing, modelling and backing up content.
 * [torus](https://github.com/coreos/torus) - A modern distributed storage system by CoreOS.
 * [s3git](https://github.com/s3git/s3git) - Git for Cloud Storage. Distributed Version Control for Data.
 * [rook](https://github.com/rook/rook) - Open, Cloud Native, and Universal Distributed Storage.
@@ -45,7 +45,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/g
 *File Systems implemented in Go.*
 
 * [git-lfs](https://github.com/git-lfs/git-lfs) - Git extension for versioning large files.
-* [seaweedfs](https://github.com/chrislusf/seaweedfs) - SeaweedFS is a simple and highly scalable distributed file system for small files. 
+* [seaweedfs](https://github.com/chrislusf/seaweedfs) - SeaweedFS is a simple and highly scalable distributed file system for small files.
 * [fsnotify](https://github.com/fsnotify/fsnotify) - Cross-platform file system notifications for Go.
 * [goofys](https://github.com/kahing/goofys) - A high-performance, POSIX-ish Amazon S3 file system written in Go.
 * [go-systemd](https://github.com/coreos/go-systemd) - Go bindings to systemd socket activation, journal, D-Bus, and unit files.
@@ -80,6 +80,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/g
 * [pREST](https://github.com/nuveo/prest) - Serve a RESTful API from any PostgreSQL database.
 * [prometheus](https://github.com/prometheus/prometheus) - Monitoring system and time series database.
 * [rqlite](https://github.com/rqlite/rqlite) - The lightweight, distributed, relational database built on SQLite.
+* [scribble](https://github.com/nanobox-io/golang-scribble) - A tiny flat file JSON store.
 * [tidb](https://github.com/pingcap/tidb) - TiDB is a distributed SQL database. Inspired by the design of Google F1.
 * [tiedot](https://github.com/HouzuoGuo/tiedot) - Your NoSQL database powered by Golang.
 * [Tile38](https://github.com/tidwall/tile38) - A geolocation DB with spatial index and realtime geofencing.
@@ -163,4 +164,3 @@ Please take a quick gander at the [contribution guidelines](https://github.com/g
     * [elastigo](https://github.com/mattbaird/elastigo) - A Elasticsearch client library.
     * [goes](https://github.com/belogik/goes) - A library to interact with Elasticsearch.
     * [skizze](https://github.com/seiflotfy/skizze) - A probabilistic data-structures service and storage.
-
