@@ -30,6 +30,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/g
 * [torus](https://github.com/coreos/torus) - A modern distributed storage system by CoreOS.
 * [s3git](https://github.com/s3git/s3git) - Git for Cloud Storage. Distributed Version Control for Data.
 * [rook](https://github.com/rook/rook) - Open, Cloud Native, and Universal Distributed Storage.
+* [longhorn](https://github.com/rancher/longhorn) Longhorn is an open source persistent block storage server delivered via containers. 
 
 ## Key-Value Store
 
