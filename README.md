@@ -40,6 +40,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/g
 * [go-cache](https://github.com/patrickmn/go-cache) - An in-memory key:value store/cache (similar to Memcached) library for Go, suitable for single-machine applications.
 * [biscuit](https://github.com/dcoker/biscuit) - Biscuit is a multi-region HA key-value store for your AWS infrastructure secrets.
 * [diskv](https://github.com/peterbourgon/diskv) - A disk-backed key-value store.
+* [consul](https://github.com/hashicorp/consul) - Distributed consistent replicated key-value store for service discovery and configuration.
 
 ## File System
 
