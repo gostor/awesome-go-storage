@@ -53,7 +53,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/g
 * [go-systemd](https://github.com/coreos/go-systemd) - Go bindings to systemd socket activation, journal, D-Bus, and unit files.
 * [gcsfuse](https://github.com/GoogleCloudPlatform/gcsfuse) - A user-space file system for interacting with Google Cloud Storage.
 * [svfs](https://github.com/ovh/svfs) - A virtual file system over Openstack Swift built upon fuse.
-
+* [afero](https://github.com/spf13/afero) - A FileSystem Abstraction System for Go
 
 ## Database
 
