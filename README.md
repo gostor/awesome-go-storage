@@ -35,6 +35,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/g
 
 *Key-Value Store implemented in Go.*
 
+* [BadgerDB](https://github.com/dgraph-io/badger) - BadgerDB is an embeddable, persistent, simple and fast key-value (KV) database written in pure Go. It's meant to be a performant alternative to non-Go-based key-value stores like RocksDB.
 * [consul](https://github.com/hashicorp/consul) - Distributed consistent replicated key-value store for service discovery and configuration.
 * [etcd](https://github.com/coreos/etcd) - Distributed reliable key-value store for the most critical data of a distributed system.
 * [go-cache](https://github.com/patrickmn/go-cache) - An in-memory key:value store/cache (similar to Memcached) library for Go, suitable for single-machine applications.
