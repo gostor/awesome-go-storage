@@ -26,7 +26,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/g
 
 * [minio](https://github.com/minio/minio) - Minio is an open source object storage server compatible with Amazon S3 APIs.
 * [rclone](https://github.com/ncw/rclone) - "rsync for cloud storage" - Google Drive, Amazon Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Cloudfile…
-* [camlistore](https://github.com/camlistore/camlistore) - Camlistore is your personal storage system for life: a way of storing, syncing, sharing, modelling and backing up content.
+* [perkeep](https://github.com/perkeep/perkeep) - Perkeep is your personal storage system for life: a way of storing, syncing, sharing, modelling and backing up content.
 * [s3git](https://github.com/s3git/s3git) - Git for Cloud Storage. Distributed Version Control for Data.
 * [rook](https://github.com/rook/rook) - Open, Cloud Native, and Universal Distributed Storage.
 * [longhorn](https://github.com/rancher/longhorn) Longhorn is an open source persistent block storage server delivered via containers. 
