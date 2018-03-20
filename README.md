@@ -14,7 +14,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/g
 
 - [Awesome Go Storage](#awesome-go-storage)
     - [Storage Server](#storage-server)
-    - [Key-Value Store](#kv-store)
+    - [Key-Value Store](#key-value-store)
     - [File System](#file-system)
     - [Database](#database)
     - [Database Drivers](#database-drivers)
