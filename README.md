@@ -14,7 +14,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/g
 
 - [Awesome Go Storage](#awesome-go-storage)
     - [Storage Server](#storage-server)
-    - [Key-Value Store](#kv-store)
+    - [Key-Value Store](#key-value-store)
     - [File System](#file-system)
     - [Database](#database)
     - [Database Drivers](#database-drivers)
@@ -26,7 +26,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/g
 
 * [minio](https://github.com/minio/minio) - Minio is an open source object storage server compatible with Amazon S3 APIs.
 * [rclone](https://github.com/ncw/rclone) - "rsync for cloud storage" - Google Drive, Amazon Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Cloudfile…
-* [camlistore](https://github.com/camlistore/camlistore) - Camlistore is your personal storage system for life: a way of storing, syncing, sharing, modelling and backing up content.
+* [perkeep](https://github.com/perkeep/perkeep) - Perkeep is your personal storage system for life: a way of storing, syncing, sharing, modelling and backing up content.
 * [s3git](https://github.com/s3git/s3git) - Git for Cloud Storage. Distributed Version Control for Data.
 * [rook](https://github.com/rook/rook) - Open, Cloud Native, and Universal Distributed Storage.
 * [longhorn](https://github.com/rancher/longhorn) Longhorn is an open source persistent block storage server delivered via containers. 
@@ -36,12 +36,11 @@ Please take a quick gander at the [contribution guidelines](https://github.com/g
 *Key-Value Store implemented in Go.*
 
 * [BadgerDB](https://github.com/dgraph-io/badger) - BadgerDB is an embeddable, persistent, simple and fast key-value (KV) database written in pure Go. It's meant to be a performant alternative to non-Go-based key-value stores like RocksDB.
+* [biscuit](https://github.com/dcoker/biscuit) - Biscuit is a multi-region HA key-value store for your AWS infrastructure secrets.
 * [consul](https://github.com/hashicorp/consul) - Distributed consistent replicated key-value store for service discovery and configuration.
+* [diskv](https://github.com/peterbourgon/diskv) - A disk-backed key-value store.
 * [etcd](https://github.com/coreos/etcd) - Distributed reliable key-value store for the most critical data of a distributed system.
 * [go-cache](https://github.com/patrickmn/go-cache) - An in-memory key:value store/cache (similar to Memcached) library for Go, suitable for single-machine applications.
-* [biscuit](https://github.com/dcoker/biscuit) - Biscuit is a multi-region HA key-value store for your AWS infrastructure secrets.
-* [diskv](https://github.com/peterbourgon/diskv) - A disk-backed key-value store.
-
 
 ## File System
 
@@ -61,7 +60,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/g
 *Databases implemented in Go.*
 
 * [BigCache](https://github.com/allegro/bigcache) - Efficient key/value cache for gigabytes of data.
-* [bolt](https://github.com/boltdb/bolt) - A low-level key/value database for Go.
+* [bolt](https://github.com/boltdb/bolt) - A low-level key/value database for Go. This original version by Ben Johnson has been marked as unmaintained and forked by [CoreOS bbolt](https://github.com/coreos/bbolt).
 * [buntdb](https://github.com/tidwall/buntdb) - A fast, embeddable, in-memory key/value database for Go with custom indexing and spatial support.
 * [cache2go](https://github.com/muesli/cache2go) - An in-memory key:value cache which supports automatic invalidation based on timeouts.
 * [cockroach](https://github.com/cockroachdb/cockroach) - A Scalable, Geo-Replicated, Transactional Datastore
@@ -69,6 +68,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/g
 * [dgraph](https://github.com/dgraph-io/dgraph) - Scalable, Distributed, Low Latency, High Throughput Graph Database.
 * [diskv](https://github.com/peterbourgon/diskv) - A home-grown disk-backed key-value store.
 * [eliasdb](https://github.com/krotik/eliasdb) - Dependency-free, transactional graph database with REST API, phrase search and SQL-like query language.
+* [emitter](https://github.com/emitter-io/emitter) - Scalable, low-latency, distributed & secure pub/sub database with time-series message storage, suitable for IoT, gaming, apps and real-time web.
 * [forestdb](https://github.com/couchbase/goforestdb) - Go bindings for ForestDB.
 * [GCache](https://github.com/bluele/gcache) - Cache library with support for expirable Cache, LFU, LRU and ARC.
 * [geocache](https://github.com/melihmucuk/geocache) - An in-memory cache that is suitable for geolocation based applications.
@@ -150,7 +150,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/g
     * [gocb](https://github.com/couchbase/gocb) - Official Couchbase Go SDK
     * [gocql](http://gocql.github.io) - A Go language driver for Apache Cassandra.
     * [gomemcache](https://github.com/bradfitz/gomemcache/) - memcache client library for the Go programming language.
-    * [gorethink](https://github.com/dancannon/gorethink) - Go language driver for RethinkDB
+    * [gorethink](https://github.com/GoRethink/gorethink) - Go language driver for RethinkDB
     * [goriak](https://github.com/zegl/goriak) - Go language driver for Riak KV
     * [mgo](https://godoc.org/labix.org/v2/mgo) - MongoDB driver for the Go language that implements a rich and well tested selection of features under a very simple API following standard Go idioms.
     * [neo4j](https://github.com/cihangir/neo4j) - Neo4j Rest API Bindings for Golang
