@@ -35,6 +35,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/g
 
 *Key-Value Store implemented in Go.*
 
+* [BadgerDB](https://github.com/dgraph-io/badger) - BadgerDB is an embeddable, persistent, simple and fast key-value (KV) database written in pure Go. It's meant to be a performant alternative to non-Go-based key-value stores like RocksDB.
 * [biscuit](https://github.com/dcoker/biscuit) - Biscuit is a multi-region HA key-value store for your AWS infrastructure secrets.
 * [consul](https://github.com/hashicorp/consul) - Distributed consistent replicated key-value store for service discovery and configuration.
 * [diskv](https://github.com/peterbourgon/diskv) - A disk-backed key-value store.
