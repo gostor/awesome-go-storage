@@ -107,6 +107,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/g
 * [orchestrator](https://github.com/outbrain/orchestrator) - MySQL replication topology manager & visualizer
 * [pgweb](https://github.com/sosedoff/pgweb) - A web-based PostgreSQL database browser
 * [vitess](https://github.com/youtube/vitess) - vitess provides servers and tools which facilitate scaling of MySQL databases for large scale web services.
+* [usql](https://github.com/xo/usql) - universal command-line interface for SQL databases
 
 *SQL query builder, libraries for building and using SQL.*
 
