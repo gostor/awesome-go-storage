@@ -57,6 +57,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/g
 * [gcsfuse](https://github.com/GoogleCloudPlatform/gcsfuse) - A user-space file system for interacting with Google Cloud Storage.
 * [svfs](https://github.com/ovh/svfs) - A virtual file system over Openstack Swift built upon fuse.
 * [afero](https://github.com/spf13/afero) - A FileSystem Abstraction System for Go
+* [minikeyvalue](https://github.com/geohot/minikeyvalue) - a ~1000 line distributed key value store
 
 ## Database
 
