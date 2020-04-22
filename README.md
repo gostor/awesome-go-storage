@@ -49,14 +49,16 @@ Please take a quick gander at the [contribution guidelines](https://github.com/g
 
 *File Systems implemented in Go.*
 
-* [git-lfs](https://github.com/git-lfs/git-lfs) - Git extension for versioning large files.
-* [seaweedfs](https://github.com/chrislusf/seaweedfs) - SeaweedFS is a simple and highly scalable distributed file system for small files.
-* [fsnotify](https://github.com/fsnotify/fsnotify) - Cross-platform file system notifications for Go.
-* [goofys](https://github.com/kahing/goofys) - A high-performance, POSIX-ish Amazon S3 file system written in Go.
-* [go-systemd](https://github.com/coreos/go-systemd) - Go bindings to systemd socket activation, journal, D-Bus, and unit files.
-* [gcsfuse](https://github.com/GoogleCloudPlatform/gcsfuse) - A user-space file system for interacting with Google Cloud Storage.
-* [svfs](https://github.com/ovh/svfs) - A virtual file system over Openstack Swift built upon fuse.
 * [afero](https://github.com/spf13/afero) - A FileSystem Abstraction System for Go
+* [fsnotify](https://github.com/fsnotify/fsnotify) - Cross-platform file system notifications for Go.
+* [gcsfuse](https://github.com/GoogleCloudPlatform/gcsfuse) - A user-space file system for interacting with Google Cloud Storage.
+* [git-lfs](https://github.com/git-lfs/git-lfs) - Git extension for versioning large files.
+* [go-systemd](https://github.com/coreos/go-systemd) - Go bindings to systemd socket activation, journal, D-Bus, and unit files.
+* [goofys](https://github.com/kahing/goofys) - A high-performance, POSIX-ish Amazon S3 file system written in Go.
+* [minikeyvalue](https://github.com/geohot/minikeyvalue) - A ~1000 line distributed key value store.
+* [seaweedfs](https://github.com/chrislusf/seaweedfs) - SeaweedFS is a simple and highly scalable distributed file system for small files.
+* [svfs](https://github.com/ovh/svfs) - A virtual file system over Openstack Swift built upon fuse.
+
 
 ## Database
 
