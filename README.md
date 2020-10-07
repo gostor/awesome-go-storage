@@ -178,7 +178,6 @@ Please take a quick gander at the [contribution guidelines](https://github.com/g
     * [bleve](https://github.com/blevesearch/bleve) - A modern text indexing library for go.
     * [elastic](https://github.com/olivere/elastic) - Elasticsearch client for Go.
     * [elastigo](https://github.com/mattbaird/elastigo) - A Elasticsearch client library.
-    * [goes](https://github.com/belogik/goes) - A library to interact with Elasticsearch.
     * [skizze](https://github.com/seiflotfy/skizze) - A probabilistic data-structures service and storage.
 
 * Multiple Backends
