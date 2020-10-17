@@ -1,4 +1,4 @@
-# Awesome Go Storage [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome Go Storage [![Awesome](https://cdn.jsdelivr.net/gh/sindresorhus/awesome@d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 A curated list of awesome Go storage projects and libraries. Inspired by [awesome-go](https://github.com/avelino/awesome-go).
 
@@ -30,14 +30,14 @@ Please take a quick gander at the [contribution guidelines](https://github.com/g
 * [s3git](https://github.com/s3git/s3git) - Git for Cloud Storage. Distributed Version Control for Data.
 * [storj](https://github.com/storj/storj) - Decentralized cloud object storage that is affordable, easy to use, private, and secure. 
 * [rook](https://github.com/rook/rook) - Open, Cloud Native, and Universal Distributed Storage.
-* [longhorn](https://github.com/rancher/longhorn) Longhorn is an open source persistent block storage server delivered via containers. 
+* [longhorn](https://github.com/rancher/longhorn) - Longhorn is an open source persistent block storage server delivered via containers. 
 
 ## Key-Value Store
 
 *Key-Value Store implemented in Go.*
 
 * [Bitcask](https://github.com/prologic/bitcask) - Bitcask is an embeddable, persistent and fast key-value (KV) database written in pure Go with predictable read/write performance, low latency and high throughput thanks to the bitcask on-disk layout (LSM+WAL).
-* [Bitraft](https://github.com/prologic/bitraft) -- Bitraft is a distributed raft-based key/value store with a Redis-compatible protocol. It uses [Bitcask](https://github.com/prologic/bitcask) for high performance/throughout and low latency.
+* [Bitraft](https://github.com/prologic/bitraft) - Bitraft is a distributed raft-based key/value store with a Redis-compatible protocol. It uses [Bitcask](https://github.com/prologic/bitcask) for high performance/throughout and low latency.
 * [BadgerDB](https://github.com/dgraph-io/badger) - BadgerDB is an embeddable, persistent, simple and fast key-value (KV) database written in pure Go. It's meant to be a performant alternative to non-Go-based key-value stores like RocksDB.
 * [biscuit](https://github.com/dcoker/biscuit) - Biscuit is a multi-region HA key-value store for your AWS infrastructure secrets.
 * [consul](https://github.com/hashicorp/consul) - Distributed consistent replicated key-value store for service discovery and configuration.
