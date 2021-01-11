@@ -52,6 +52,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/g
 
 * [afero](https://github.com/spf13/afero) - A FileSystem Abstraction System for Go
 * [fsnotify](https://github.com/fsnotify/fsnotify) - Cross-platform file system notifications for Go.
+* [juicefs](https://github.com/juicedata/juicefs) - A distributed POSIX file system built on top of Redis and S3.
 * [gcsfuse](https://github.com/GoogleCloudPlatform/gcsfuse) - A user-space file system for interacting with Google Cloud Storage.
 * [git-lfs](https://github.com/git-lfs/git-lfs) - Git extension for versioning large files.
 * [go-systemd](https://github.com/coreos/go-systemd) - Go bindings to systemd socket activation, journal, D-Bus, and unit files.
