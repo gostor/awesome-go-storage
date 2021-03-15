@@ -172,7 +172,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/g
     * [redigo](https://github.com/gomodule/redigo) - Redigo is a Go client for the Redis database.
     * [redis](https://github.com/go-redis/redis) - Redis client for Golang
     * [redis](https://github.com/hoisie/redis) - A simple, powerful Redis client for Go.
-    * [redis](https://github.com/bsm/redeo) - Redis-protocol compatible TCP servers/services.
+    * [redeo](https://github.com/bsm/redeo) - Redis-protocol compatible TCP servers/services.
 
 * Search and Analytic Databases
     * [bleve](https://github.com/blevesearch/bleve) - A modern text indexing library for go.
