@@ -40,6 +40,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/g
 * [Bitraft](https://github.com/prologic/bitraft) - Bitraft is a distributed raft-based key/value store with a Redis-compatible protocol. It uses [Bitcask](https://github.com/prologic/bitcask) for high performance/throughout and low latency.
 * [BadgerDB](https://github.com/dgraph-io/badger) - BadgerDB is an embeddable, persistent, simple and fast key-value (KV) database written in pure Go. It's meant to be a performant alternative to non-Go-based key-value stores like RocksDB.
 * [biscuit](https://github.com/dcoker/biscuit) - Biscuit is a multi-region HA key-value store for your AWS infrastructure secrets.
+* [column](https://github.com/kelindar/column) - Embeddable, columnar, in-memory store with bitmap indexing, transaction and zero-alloc quering.
 * [consul](https://github.com/hashicorp/consul) - Distributed consistent replicated key-value store for service discovery and configuration.
 * [diskv](https://github.com/peterbourgon/diskv) - A disk-backed key-value store.
 * [etcd](https://github.com/coreos/etcd) - Distributed reliable key-value store for the most critical data of a distributed system.
