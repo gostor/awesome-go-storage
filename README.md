@@ -68,7 +68,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/g
 *Databases implemented in Go.*
 
 * [BigCache](https://github.com/allegro/bigcache) - Efficient key/value cache for gigabytes of data.
-* [bolt](https://github.com/boltdb/bolt) - A low-level key/value database for Go. This original version by Ben Johnson has been marked as unmaintained and forked by [CoreOS bbolt](https://github.com/coreos/bbolt).
+* [bolt](https://github.com/boltdb/bolt) - A low-level key/value database for Go. This original version by Ben Johnson has been marked as unmaintained and forked by [etcd-io bbolt](https://github.com/etcd-io/bbolt).
 * [buntdb](https://github.com/tidwall/buntdb) - A fast, embeddable, in-memory key/value database for Go with custom indexing and spatial support.
 * [cache2go](https://github.com/muesli/cache2go) - An in-memory key:value cache which supports automatic invalidation based on timeouts.
 * [cockroach](https://github.com/cockroachdb/cockroach) - A Scalable, Geo-Replicated, Transactional Datastore
