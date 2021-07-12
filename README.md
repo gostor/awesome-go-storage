@@ -1,4 +1,4 @@
-# Awesome Go Storage [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome Go Storage [![Awesome](https://cdn.jsdelivr.net/gh/sindresorhus/awesome@d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 A curated list of awesome Go storage projects and libraries. Inspired by [awesome-go](https://github.com/avelino/awesome-go).
 
@@ -30,22 +30,24 @@ Please take a quick gander at the [contribution guidelines](https://github.com/g
 * [s3git](https://github.com/s3git/s3git) - Git for Cloud Storage. Distributed Version Control for Data.
 * [storj](https://github.com/storj/storj) - Decentralized cloud object storage that is affordable, easy to use, private, and secure. 
 * [rook](https://github.com/rook/rook) - Open, Cloud Native, and Universal Distributed Storage.
-* [longhorn](https://github.com/rancher/longhorn) Longhorn is an open source persistent block storage server delivered via containers. 
+* [longhorn](https://github.com/rancher/longhorn) - Longhorn is an open source persistent block storage server delivered via containers. 
 
 ## Key-Value Store
 
 *Key-Value Store implemented in Go.*
 
-* [Bitcask](https://github.com/prologic/bitcask) - Bitcask is an embeddable, persistent and fast key-value (KV) database written in pure Go with predictable read/write performance, low latency and high throughput thanks to the bitcask on-disk layout (LSM+WAL).
-* [Bitraft](https://github.com/prologic/bitraft) -- Bitraft is a distributed raft-based key/value store with a Redis-compatible protocol. It uses [Bitcask](https://github.com/prologic/bitcask) for high performance/throughout and low latency.
+* [Bitcask](https://git.mills.io/prologic/bitcask) - Bitcask is an embeddable, persistent and fast key-value (KV) database written in pure Go with predictable read/write performance, low latency and high throughput thanks to the bitcask on-disk layout (LSM+WAL).
+* [Bitraft](https://git.mills.io/prologic/bitraft) - Bitraft is a distributed raft-based key/value store with a Redis-compatible protocol. It uses [Bitcask](https://git.mills.io/prologic/bitcask) for high performance/throughout and low latency.
 * [BadgerDB](https://github.com/dgraph-io/badger) - BadgerDB is an embeddable, persistent, simple and fast key-value (KV) database written in pure Go. It's meant to be a performant alternative to non-Go-based key-value stores like RocksDB.
 * [biscuit](https://github.com/dcoker/biscuit) - Biscuit is a multi-region HA key-value store for your AWS infrastructure secrets.
+* [column](https://github.com/kelindar/column) - Embeddable, columnar, in-memory store with bitmap indexing, transaction and zero-alloc quering.
 * [consul](https://github.com/hashicorp/consul) - Distributed consistent replicated key-value store for service discovery and configuration.
 * [diskv](https://github.com/peterbourgon/diskv) - A disk-backed key-value store.
 * [etcd](https://github.com/coreos/etcd) - Distributed reliable key-value store for the most critical data of a distributed system.
 * [go-cache](https://github.com/patrickmn/go-cache) - An in-memory key:value store/cache (similar to Memcached) library for Go, suitable for single-machine applications.
 * [nutsdb](https://github.com/xujiajun/nutsdb) - Nutsdb is a simple, fast, embeddable, persistent key/value store written in pure Go. It supports fully serializable transactions and many data structures such as list, set, sorted set.
 * [pogreb](https://github.com/akrylysov/pogreb) - Embedded key-value store for read-heavy workloads.
+* [rosedb](https://github.com/roseduan/rosedb) - A fast, stable and embedded k-v database in pure Golang, supports string, list, hash, set, sorted set.
 
 ## File System
 
@@ -53,6 +55,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/g
 
 * [afero](https://github.com/spf13/afero) - A FileSystem Abstraction System for Go
 * [fsnotify](https://github.com/fsnotify/fsnotify) - Cross-platform file system notifications for Go.
+* [juicefs](https://github.com/juicedata/juicefs) - A distributed POSIX file system built on top of Redis and S3.
 * [gcsfuse](https://github.com/GoogleCloudPlatform/gcsfuse) - A user-space file system for interacting with Google Cloud Storage.
 * [git-lfs](https://github.com/git-lfs/git-lfs) - Git extension for versioning large files.
 * [go-systemd](https://github.com/coreos/go-systemd) - Go bindings to systemd socket activation, journal, D-Bus, and unit files.
@@ -67,7 +70,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/g
 *Databases implemented in Go.*
 
 * [BigCache](https://github.com/allegro/bigcache) - Efficient key/value cache for gigabytes of data.
-* [bolt](https://github.com/boltdb/bolt) - A low-level key/value database for Go. This original version by Ben Johnson has been marked as unmaintained and forked by [CoreOS bbolt](https://github.com/coreos/bbolt).
+* [bolt](https://github.com/boltdb/bolt) - A low-level key/value database for Go. This original version by Ben Johnson has been marked as unmaintained and forked by [etcd-io bbolt](https://github.com/etcd-io/bbolt).
 * [buntdb](https://github.com/tidwall/buntdb) - A fast, embeddable, in-memory key/value database for Go with custom indexing and spatial support.
 * [cache2go](https://github.com/muesli/cache2go) - An in-memory key:value cache which supports automatic invalidation based on timeouts.
 * [cockroach](https://github.com/cockroachdb/cockroach) - A Scalable, Geo-Replicated, Transactional Datastore
@@ -128,7 +131,6 @@ Please take a quick gander at the [contribution guidelines](https://github.com/g
 * [grimoire](https://github.com/Fs02/grimoire) - Grimoire is a database access layer and validation for golang. (Support: MySQL, PostgreSQL and SQLite3).
 * [igor](https://github.com/galeone/igor) - Abstraction layer for PostgreSQL that supports advanced functionality and uses gorm-like syntax.
 * [ozzo-dbx](https://github.com/go-ozzo/ozzo-dbx) - Powerful data retrieval methods as well as DB-agnostic query building capabilities.
-* [scaneo](https://github.com/variadico/scaneo) - Generate Go code to convert database rows into arbitrary structs.
 * [SQLBoiler](https://github.com/volatiletech/sqlboiler) - a tool to generate a Go ORM tailored to your database schema. It is a "database-first" ORM as opposed to "code-first", and you must first create your database.
 * [sqrl](https://github.com/elgris/sqrl) - SQL query builder, fork of Squirrel with improved performance.
 * [Squirrel](https://github.com/Masterminds/squirrel) - Go library that helps you build SQL queries.
@@ -173,13 +175,12 @@ Please take a quick gander at the [contribution guidelines](https://github.com/g
     * [redigo](https://github.com/gomodule/redigo) - Redigo is a Go client for the Redis database.
     * [redis](https://github.com/go-redis/redis) - Redis client for Golang
     * [redis](https://github.com/hoisie/redis) - A simple, powerful Redis client for Go.
-    * [redis](https://github.com/bsm/redeo) - Redis-protocol compatible TCP servers/services.
+    * [redeo](https://github.com/bsm/redeo) - Redis-protocol compatible TCP servers/services.
 
 * Search and Analytic Databases
     * [bleve](https://github.com/blevesearch/bleve) - A modern text indexing library for go.
     * [elastic](https://github.com/olivere/elastic) - Elasticsearch client for Go.
     * [elastigo](https://github.com/mattbaird/elastigo) - A Elasticsearch client library.
-    * [goes](https://github.com/belogik/goes) - A library to interact with Elasticsearch.
     * [skizze](https://github.com/seiflotfy/skizze) - A probabilistic data-structures service and storage.
 
 * Multiple Backends
