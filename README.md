@@ -45,6 +45,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/g
 * [diskv](https://github.com/peterbourgon/diskv) - A disk-backed key-value store.
 * [etcd](https://github.com/coreos/etcd) - Distributed reliable key-value store for the most critical data of a distributed system.
 * [go-cache](https://github.com/patrickmn/go-cache) - An in-memory key:value store/cache (similar to Memcached) library for Go, suitable for single-machine applications.
+* [IceFireDB](https://github.com/IceFireDB/IceFireDB) - Distributed disk storage database using the Raft and Redis protocols.
 * [nutsdb](https://github.com/xujiajun/nutsdb) - Nutsdb is a simple, fast, embeddable, persistent key/value store written in pure Go. It supports fully serializable transactions and many data structures such as list, set, sorted set.
 * [pogreb](https://github.com/akrylysov/pogreb) - Embedded key-value store for read-heavy workloads.
 * [rosedb](https://github.com/roseduan/rosedb) - A fast, stable and embedded k-v database in pure Golang, supports string, list, hash, set, sorted set.
