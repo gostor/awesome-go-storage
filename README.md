@@ -85,6 +85,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/g
 * [GCache](https://github.com/bluele/gcache) - Cache library with support for expirable Cache, LFU, LRU and ARC.
 * [geocache](https://github.com/melihmucuk/geocache) - An in-memory cache that is suitable for geolocation based applications.
 * [go-cache](https://github.com/pmylund/go-cache) - An in-memory key:value store/cache (similar to Memcached) library for Go, suitable for single-machine applications.
+* [godis](https://github.com/hdt3213/godis) - A Golang implemented high-performance Redis server and cluster
 * [goleveldb](https://github.com/syndtr/goleveldb) - An implementation of the [LevelDB](https://github.com/google/leveldb) key/value database in the Go.
 * [groupcache](https://github.com/golang/groupcache) - Groupcache is a caching and cache-filling library, intended as a replacement for memcached in many cases.
 * [immudb](https://github.com/codenotary/immudb) - Database with built-in cryptographic proof and verification. Can operate as a key-value store or as relational database (SQL).
