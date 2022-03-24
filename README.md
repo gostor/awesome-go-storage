@@ -49,6 +49,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/g
 * [nutsdb](https://github.com/xujiajun/nutsdb) - Nutsdb is a simple, fast, embeddable, persistent key/value store written in pure Go. It supports fully serializable transactions and many data structures such as list, set, sorted set.
 * [pogreb](https://github.com/akrylysov/pogreb) - Embedded key-value store for read-heavy workloads.
 * [rosedb](https://github.com/roseduan/rosedb) - A fast, stable and embedded k-v database in pure Golang, supports string, list, hash, set, sorted set.
+* [LotusDB](https://github.com/flower-corp/lotusdb) - Fast k/v storage compatible with lsm tree and b+tree.
 
 ## File System
 
