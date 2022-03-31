@@ -24,6 +24,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/g
 
 *Storage Servers implemented in Go.*
 
+* [SeaweedFS](https://github.com/chrislusf/seaweedfs) - SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, cross-DC active-active replication, Kubernetes, POSIX FUSE mount, S3 API, S3 Gateway, Hadoop, WebDAV, encryption, Erasure Coding.
 * [minio](https://github.com/minio/minio) - Minio is an open source object storage server compatible with Amazon S3 APIs.
 * [rclone](https://github.com/ncw/rclone) - "rsync for cloud storage" - Google Drive, Amazon Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Cloudfile…
 * [perkeep](https://github.com/perkeep/perkeep) - Perkeep is your personal storage system for life: a way of storing, syncing, sharing, modelling and backing up content.
