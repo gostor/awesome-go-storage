@@ -190,4 +190,5 @@ Please take a quick gander at the [contribution guidelines](https://github.com/g
     * [skizze](https://github.com/seiflotfy/skizze) - A probabilistic data-structures service and storage.
 
 * Multiple Backends
-    * [gokv](https://github.com/philippgille/gokv) - A simple key-value store interface and many implementations for Go (Redis, Consul, etcd, bbolt, BadgerDB, LevelDB, Memcached, DynamoDB, S3, PostgreSQL, MongoDB, CockroachDB and many more)
+    * [Fiber Storage](https://github.com/gofiber/storage) - Premade storage drivers that implement the [Storage](https://github.com/gofiber/storage/blob/main/storage.go) interface. 
+    * [gokv](https://github.com/philippgille/gokv) - A simple key-value store interface and many implementations for Go (Redis, Consul, etcd, bbolt, BadgerDB, LevelDB, Memcached, DynamoDB, S3, PostgreSQL, MongoDB, CockroachDB and many more) 
