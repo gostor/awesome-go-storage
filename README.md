@@ -96,6 +96,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/g
 * [moss](https://github.com/couchbase/moss) - Moss is a simple LSM key-value storage engine written in 100% Go.
 * [noms](https://github.com/attic-labs/noms) - The versioned, forkable, syncable database.
 * [nutsdb](https://github.com/xujiajun/nutsdb) - Nutsdb is a simple, fast, embeddable, persistent key/value store written in pure Go. It supports fully serializable transactions and many data structures such as list, set, sorted set.
+* [objectbox-go](https://github.com/objectbox/objectbox-go) - Embedded Object Database (NoSQL) with Go API.
 * [piladb](https://github.com/fern4lvarez/piladb) - Lightweight RESTful database engine based on stack data structures.
 * [pREST](https://github.com/nuveo/prest) - Serve a RESTful API from any PostgreSQL database.
 * [prometheus](https://github.com/prometheus/prometheus) - Monitoring system and time series database.
