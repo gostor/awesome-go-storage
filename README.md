@@ -80,6 +80,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/g
 * [CovenantSQL](https://github.com/CovenantSQL/CovenantSQL) - A SQL Database with Blockchain features.
 * [dgraph](https://github.com/dgraph-io/dgraph) - Scalable, Distributed, Low Latency, High Throughput Graph Database.
 * [diskv](https://github.com/peterbourgon/diskv) - A home-grown disk-backed key-value store.
+* [dolt](https://github.com/dolthub/dolt) - A MySQL-compatible database with Git-style version control. The first SQL database you can branch and merge.
 * [eliasdb](https://github.com/krotik/eliasdb) - Dependency-free, transactional graph database with REST API, phrase search and SQL-like query language.
 * [emitter](https://github.com/emitter-io/emitter) - Scalable, low-latency, distributed & secure pub/sub database with time-series message storage, suitable for IoT, gaming, apps and real-time web.
 * [forestdb](https://github.com/couchbase/goforestdb) - Go bindings for ForestDB.
