@@ -84,6 +84,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/g
 * [eliasdb](https://github.com/krotik/eliasdb) - Dependency-free, transactional graph database with REST API, phrase search and SQL-like query language.
 * [emitter](https://github.com/emitter-io/emitter) - Scalable, low-latency, distributed & secure pub/sub database with time-series message storage, suitable for IoT, gaming, apps and real-time web.
 * [forestdb](https://github.com/couchbase/goforestdb) - Go bindings for ForestDB.
+* [frostdb](https://github.com/polarsignals/frostdb/) - Embeddable column database written in Go. 
 * [GCache](https://github.com/bluele/gcache) - Cache library with support for expirable Cache, LFU, LRU and ARC.
 * [geocache](https://github.com/melihmucuk/geocache) - An in-memory cache that is suitable for geolocation based applications.
 * [go-cache](https://github.com/pmylund/go-cache) - An in-memory key:value store/cache (similar to Memcached) library for Go, suitable for single-machine applications.
