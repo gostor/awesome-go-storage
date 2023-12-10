@@ -103,6 +103,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/g
 * [pREST](https://github.com/nuveo/prest) - Serve a RESTful API from any PostgreSQL database.
 * [prometheus](https://github.com/prometheus/prometheus) - Monitoring system and time series database.
 * [rqlite](https://github.com/rqlite/rqlite) - The lightweight, distributed, relational database built on SQLite.
+* [rotom](https://github.com/xgzlucario/rotom) - A fast key-value in-memory embeddable database.
 * [scribble](https://github.com/nanobox-io/golang-scribble) - A tiny flat file JSON store.
 * [SpiceDB](https://github.com/authzed/spicedb) - A [Zanzibar](https://research.google/pubs/pub48190/)-inspired database that stores, computes, and validates application permissions with support for multiple database backends.
 * [tidb](https://github.com/pingcap/tidb) - TiDB is a distributed SQL database. Inspired by the design of Google F1.
