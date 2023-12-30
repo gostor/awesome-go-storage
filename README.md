@@ -93,6 +93,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/g
 * [groupcache](https://github.com/golang/groupcache) - Groupcache is a caching and cache-filling library, intended as a replacement for memcached in many cases.
 * [immudb](https://github.com/codenotary/immudb) - Database with built-in cryptographic proof and verification. Can operate as a key-value store or as relational database (SQL).
 * [influxdb](https://github.com/influxdb/influxdb) - Scalable datastore for metrics, events, and real-time analytics
+* [jdocdb](https://github.com/rodolfoap/jdocdb) - A minimalist JSON document file-based database allowing complex SELECT queries.
 * [ledisdb](https://github.com/siddontang/ledisdb) - Ledisdb is a high performance NoSQL like Redis based on LevelDB.
 * [levigo](https://github.com/jmhodges/levigo) - Levigo is a Go wrapper for LevelDB.
 * [moss](https://github.com/couchbase/moss) - Moss is a simple LSM key-value storage engine written in 100% Go.
