@@ -108,6 +108,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/g
 * [tiedot](https://github.com/HouzuoGuo/tiedot) - Your NoSQL database powered by Golang.
 * [Tile38](https://github.com/tidwall/tile38) - A geolocation DB with spatial index and realtime geofencing.
 * [VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) - Time series database designed for monitoring, compatible with PromQL (from Promethueus) and InfluxQL (from Influxdb).
+* [CoffeDB](https://github.com/FreezB11/CoffeDB) - A database made with LLM and HUMANs for faster Integration in modern infra
 
 *Database schema migration.*
 
