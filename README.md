@@ -79,6 +79,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/g
 * [couchcache](https://github.com/codingsince1985/couchcache) - A RESTful caching micro-service backed by Couchbase server.
 * [CovenantSQL](https://github.com/CovenantSQL/CovenantSQL) - A SQL Database with Blockchain features.
 * [dgraph](https://github.com/dgraph-io/dgraph) - Scalable, Distributed, Low Latency, High Throughput Graph Database.
+* [ArcadeDB](https://github.com/ArcadeData/arcadedb) - Multi-model database with native graph, document, key-value, time-series and vector support. Supports SQL, Cypher and Gremlin. Apache 2.0 license. [website](https://arcadedb.com)
 * [diskv](https://github.com/peterbourgon/diskv) - A home-grown disk-backed key-value store.
 * [dolt](https://github.com/dolthub/dolt) - A MySQL-compatible database with Git-style version control. The first SQL database you can branch and merge.
 * [eliasdb](https://github.com/krotik/eliasdb) - Dependency-free, transactional graph database with REST API, phrase search and SQL-like query language.
