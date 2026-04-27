@@ -95,6 +95,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/g
 * [influxdb](https://github.com/influxdb/influxdb) - Scalable datastore for metrics, events, and real-time analytics
 * [ledisdb](https://github.com/siddontang/ledisdb) - Ledisdb is a high performance NoSQL like Redis based on LevelDB.
 * [levigo](https://github.com/jmhodges/levigo) - Levigo is a Go wrapper for LevelDB.
+* [lynxdb](https://github.com/lynxbase/lynxdb) - Lightweight log analytics database with columnar storage and a pipe-style query language.
 * [moss](https://github.com/couchbase/moss) - Moss is a simple LSM key-value storage engine written in 100% Go.
 * [noms](https://github.com/attic-labs/noms) - The versioned, forkable, syncable database.
 * [objectbox-go](https://github.com/objectbox/objectbox-go) - Embedded Object Database (NoSQL) with Go API.
