@@ -30,7 +30,8 @@ Please take a quick gander at the [contribution guidelines](https://github.com/g
 * [s3git](https://github.com/s3git/s3git) - Git for Cloud Storage. Distributed Version Control for Data.
 * [storj](https://github.com/storj/storj) - Decentralized cloud object storage that is affordable, easy to use, private, and secure. 
 * [rook](https://github.com/rook/rook) - Open, Cloud Native, and Universal Distributed Storage.
-* [longhorn](https://github.com/rancher/longhorn) - Longhorn is an open source persistent block storage server delivered via containers. 
+* [longhorn](https://github.com/rancher/longhorn) - Longhorn is an open source persistent block storage server delivered via containers.
+* [dakera-go](https://github.com/dakera-ai/dakera-go) - Go SDK for Dakera, a self-hosted MCP agent memory server with HNSW vector search and RocksDB persistence.
 
 ## Key-Value Store
 
